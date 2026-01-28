@@ -4,7 +4,7 @@ This repository contains my assignments for the
 Technology and Information System course (SECP1513).
 
 
-## 📤 Submission
+## 📤 Reflections
 
 | No. | Assignment | Type | Reflection |
 |-----|------------|------|------------|
