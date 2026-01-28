@@ -8,3 +8,6 @@ Contents include:
 - Research and problem definition
 - Ideation and solution design
 - Final report and presentation
+  
+🔗 # Project Design Thinking Video
+https://youtu.be/V4dSwsrJQz0
